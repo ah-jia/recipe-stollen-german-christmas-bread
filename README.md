@@ -1,10 +1,10 @@
 [Back to homepage](https://ah-jia.github.io/)
 
-# Title
+# Stollen (German Christmas Bread)
 
-![Ready to serve photo](images/change this to filename in images folder.jpg)
+![Ready to serve photo](images/ready-to-serve.jpg)
 
-## Section 1
+## Dough
 ### Ingredients
 - 10g of this
 - 20g of that
@@ -13,7 +13,16 @@
 1. do this
 2. do that
 
-## Section 2
+## Fruits & Nuts
+### Ingredients
+- 30g of this
+- 40g of that
+
+### Steps
+1. do this
+2. do that
+
+## Marzipan or Almond Paste
 ### Ingredients
 - 30g of this
 - 40g of that
