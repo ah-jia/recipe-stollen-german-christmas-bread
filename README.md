@@ -29,7 +29,7 @@ Soak the fruits in the rum or brandy for a few days
 
 ## Glazing & Dusting
 - 100 gm butter, melted
-- powdered sugar for gtypoenerous dusting
+- powdered sugar for generous dusting
 
 
 ### Steps
